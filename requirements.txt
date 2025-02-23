@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+datasets
+evaluate
+rouge_score
+numpy
+matplotlib
+huggingface_hub
